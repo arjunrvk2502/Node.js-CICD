@@ -1,6 +1,6 @@
 # Node.js CI/CD with GitHub Actions, Docker & GCP Compute Engine
 
-[![CI/CD Workflow](https://github.com/arjunrvk2502/CICD/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/arjunrvk2502/CICD/actions/workflows/ci-cd.yml)
+[![CI/CD Workflow](https://github.com/arjunrvk2502/Node.js-CICD/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/arjunrvk2502/Node.js-CICD/actions/workflows/ci-cd.yml)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A comprehensive CI/CD pipeline for a Dockerized Node.js application that uses GitHub Actions for CI/CD and deploys containers to a Google Cloud Compute Engine VM.
@@ -73,7 +73,7 @@ Security notes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/arjunrvk2502/CICD.git
+git clone https://github.com/arjunrvk2502/Node.js-CICD.git
 cd CICD
 ```
 
