@@ -74,7 +74,7 @@ Security notes:
 1. Clone the repository:
 ```bash
 git clone https://github.com/arjunrvk2502/Node.js-CICD.git
-cd CICD
+cd Node.js-CICD
 ```
 
 2. Install dependencies:
